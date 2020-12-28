@@ -1,0 +1,4 @@
+#Thu Apr 11 17:36:08 PDT 2019
+base.0=C\:\\Users\\eugen\\libmuse_6.0.3\\android\\examples\\TestLibMuseAndroid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
