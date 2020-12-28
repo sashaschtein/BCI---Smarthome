@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "669604267138",
+    "firebase_url": "https://crux-f7b9b.firebaseio.com",
+    "project_id": "crux-f7b9b",
+    "storage_bucket": "crux-f7b9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669604267138:android:2cac7cfa4841a64e",
+        "android_client_info": {
+          "package_name": "com.choosemuse.example.libmuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669604267138-6e57umsdqm1jcusfqp7013r3680iqur1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.choosemuse.example.libmuse",
+            "certificate_hash": "30c174d377375062cc453601b4200a4e713726dd"
+          }
+        },
+        {
+          "client_id": "669604267138-b2mfb7v34m4kbr8chl5lqa5brjopcpfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB8mvW9wdfCqvtvBP_iS5Rk3Ssk2KO_pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669604267138-b2mfb7v34m4kbr8chl5lqa5brjopcpfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
